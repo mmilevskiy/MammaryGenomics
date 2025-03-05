@@ -42,7 +42,10 @@ For each population we profiled:
   <li>chromatin accessiblity: ATAC-seq</li>
 </ol>
 
-All data was mapped to the mouse genome, mm10
+All data was mapped to the mouse genome, mm10.
+
+<strong>ChromHMM</strong><br>
+We generated chromatin hidden markov modelling (ChromHMM) files for the CUT&Tag data, combined with the ATAC-seq. There are 24-chromatin states in this model, please see our paper above for details on this states, Figure 5A. These files are bed file format.
 
 <strong>RNA-seq, CUT&Tag and ATAC-seq:</strong><br>
 Data is provided as bigwig (.bw) files, normalised as reads per kilobase per million (RPKM). <br>
