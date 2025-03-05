@@ -9,7 +9,7 @@ Milevskiy, Coughlan and Visvader et al, Cell Genomics 2023 <br>
 <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227750"> Raw data: GSE227750</a>
 <br>
 
-<img src="https://github.com/mmilevskiy/MammaryGenomics/blob/c77a81db0eb4c499e60da02030c37aec7c6c64ff/EpiAtlas%20Methods%20Overview.pdf" alt="Graphical abstract">
+<img src="https://github.com/mmilevskiy/MammaryGenomics/blob/e51bd044029a9459e63541fecafe6f37c81725cf/EpiAtlas%20Methods%20Overview.png" alt="Graphical abstract">
 
 We profiled genomics and transcriptomic attributes of mammary epithelial cells (MECs) sorted from mouse mammary glands. We provide bulk level data for five cellular populations: <br>
 <ol>
