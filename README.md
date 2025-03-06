@@ -48,7 +48,7 @@ All data was mapped to the mouse genome, mm10.
 We generated chromatin hidden markov modelling (ChromHMM) files for the CUT&Tag data, combined with the ATAC-seq. There are 24-chromatin states in this model, please see our paper above for details on this states, Figure 5A. These files are bed file format.
 
 <strong>RNA-seq, CUT&Tag and ATAC-seq:</strong><br>
-Data is provided as bigwig (.bw) files, normalised as reads per kilobase per million (RPKM). <br>
+Data is provided as bigwig (.bw) files, normalised as reads per kilobase per million (RPKM). The ATAC-seq files were downsampled to reduce the file size for upload. For any analysis of these data, please see the fastq files in the GEO database. <br>
 
 <strong>Omni-C:</strong><br>
 Omni-C interaction data was extracted for transcription start sites (TSSs) and is provided as a bed paired-end (.bedpe) file. <br>
